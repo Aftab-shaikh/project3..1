@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.user1.aaaaa.MainActivity">
+
+    <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_gravity="bottom"
+            android:gravity="center"
+            android:text="RED"
+            android:textSize="20dp"
+            android:background="#FA0004"
+            android:layout_weight="1"/>
+    <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_gravity="bottom"
+            android:gravity="center"
+            android:text="ORANGE"
+            android:textSize="20dp"
+            android:background="#ffa500"
+            android:layout_weight="1"/>
+    <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_gravity="bottom"
+            android:gravity="center"
+            android:text="YELLOW"
+            android:textSize="20dp"
+            android:background="#ffff00"
+            android:layout_weight="1"/>
+    <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_gravity="bottom"
+            android:gravity="center"
+            android:text="GREEN"
+            android:textSize="20dp"
+            android:background="#008000"
+            android:layout_weight="1"/>
+    <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_gravity="bottom"
+            android:gravity="center"
+            android:text="BLUE"
+            android:textSize="20dp"
+            android:background="#0000ff"
+            android:layout_weight="1"/>
+    <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_gravity="bottom"
+            android:gravity="center"
+            android:text="INDIGO"
+            android:textSize="20dp"
+            android:background="#4b0082"
+            android:layout_weight="1"/>
+    <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_gravity="bottom"
+            android:gravity="center"
+            android:text="VIOLET"
+            android:textSize="20dp"
+            android:background="#ee82ee"
+            android:layout_weight="1"/>
+
+
+</LinearLayout>
